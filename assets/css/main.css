@@ -3224,7 +3224,7 @@ input, select, textarea {
 		justify-content: center;
 		flex-wrap: wrap;
 		text-align: center;
-		
+		text-decoration: none;
 	}
 
 	.skills-container a {
